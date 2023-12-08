@@ -1,0 +1,11 @@
+{
+  "_comment": "This file is used to store the configuration for the project",
+  "pharmforus-next-main": {
+    "ip": "111.222.333.444",
+    "username": "username",
+    "repo": "git@github.com:waylake/repo-name.git",
+    "build": "true",
+    "tool": "npm",
+    "deployPath": "/path/to/deploy"
+  }
+}
