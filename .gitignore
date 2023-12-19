@@ -1,3 +1,6 @@
 .DS_Store
 node_modules
 output
+*.env
+*log
+server_info.json
